@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jleegunn/NFT-preview-card)
+- Live Site URL: [Add live site URL here](https://jleegunn.github.io/NFT-preview-card/)
 
 ## My process
 
@@ -92,4 +92,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Jamie Counsellor](TBD)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@jleegunn)
