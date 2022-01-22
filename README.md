@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jleegunn/NFT-preview-card)
-- Live Site URL: [Add live site URL here](https://jleegunn.github.io/NFT-preview-card/)
+- Solution URL: (https://github.com/jleegunn/NFT-preview-card)
+- Live Site URL: (https://jleegunn.github.io/NFT-preview-card/)
 
 ## My process
 
