@@ -90,4 +90,3 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Jamie Counsellor](TBD)
-- Frontend Mentor - [@jleegunn](https://www.frontendmentor.io/profile/@jleegunn)
