@@ -27,8 +27,6 @@ Users should be able to:
 ### Screenshot
 
 ![](images/Desktop_view.png)
-![](images/Active_view.png)
-![](images/Cell_view.png)
 
 ### Links
 
