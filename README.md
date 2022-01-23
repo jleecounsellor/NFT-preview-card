@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/jleegunn/NFT-preview-card)
-- Live Site URL: (https://jleegunn.github.io/NFT-preview-card/)
+- [Solution URL](https://github.com/jleegunn/NFT-preview-card)
+- [Live Site URL](https://jleegunn.github.io/NFT-preview-card/)
 
 ## My process
 
